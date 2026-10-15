@@ -6,6 +6,7 @@
   <strong>An interactive, beautifully animated Shinchan-themed birthday surprise web application designed with pure HTML, CSS, and Vanilla JavaScript.</strong>
 </p>
 
+[![Vercel](https://img.shields.io/badge/Vercel-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://secret-birthday-gift-iota.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,6 +14,7 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20%7C%20Desktop-ff69b4?style=for-the-badge)
 
 <p align="center">
+  <a href="https://secret-birthday-gift-iota.vercel.app"><strong>🌐 Live Demo</strong></a> •
   <a href="#-features">Features</a> •
   <a href="#-quick-start">Quick Start</a> •
   <a href="#-how-to-customize">Customization</a> •
@@ -106,6 +108,9 @@ Secret-Birthday-Gift/
 ---
 
 ## 🚀 Quick Start
+
+### 🌐 Live Production Demo
+Experience the surprise live: **[https://secret-birthday-gift-iota.vercel.app](https://secret-birthday-gift-iota.vercel.app)**
 
 No build tools, bundlers, or package installations needed!
 

@@ -19,3 +19,6 @@ yarn-debug.log*
 node_modules/
 dist/
 build/
+.vercel/
+
+.vercel
