@@ -467,7 +467,7 @@ function closeGiftModal() {
 const LETTER_SECTIONS = [
   {
     id: 'letter-headline-el',
-    text: "Happy birthday AGAM BHAI! ❤️"
+    text: "Happy birthday VIKAS BHAI ! ❤️"
   },
   {
     id: 'letter-p1-el',
